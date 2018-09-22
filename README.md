@@ -161,3 +161,4 @@ In your Blade views, you'll now be able to do the following instead of `@critica
 ``` php
 {!! Critical::css('some/route') !!}
 ```
+ 
